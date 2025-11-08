@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Doa Sapu Jagat",
+    "contents": {
+      "number": 1,
+      "arab": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "latin": "Rabbanā, ātinā fid dunyā hasanah, wa fil ākhirati hasanah, wa qinā ‘adzāban nār.",
+      "mean": "Ya Tuhan kami, berikan kami kebaikan di dunia dan kebaikan di akhirat. Lindungilah kami dari siksa neraka.",
+      "advantage": [
+        { "name": "Mendapat Kebaikan di Dunia dan Akhirat" },
+        { "name": "Mendapat Perlindungan Allah SWT" },
+        { "name": "Terhindar dari Celaka" },
+        { "name": "Terlindungi Kesehatan Mental dan Fisik" },
+        { "name": "Menjauhkan Keburukan" }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Doa Sebelum Tidur",
+    "contents": {
+      "number": 2,
+      "arab": "بِاسْمِكَ اللّٰهُمَّ اَحْيَا وَاَمُوْتُ",
+      "latin": "Bismika Allahumma ahya wa amut.",
+      "mean": "Dengan nama-Mu ya Allah, aku hidup dan aku mati.",
+      "advantage": [
+        { "name": "Menumbuhkan rasa syukur" },
+        { "name": "Memohon perlindungan saat tidur" }
+      ]
+    }
+  }
+]
