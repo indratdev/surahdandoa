@@ -2,7 +2,9 @@ import doa from '../../data/doa.json';
 
 export default function handler(req, res) {
   const { name } = req.query;
-  const result = doa.find(d => d.name.toLowerCase().replace(/\s+/g, '-') === name.toLowerCase());
+
+  // cari slug yang cocok, tanpa peduli huruf besar/kecil
+  const result = doa.find(d => d.slug.toLowerCase() === name.toLowerCase());
 
   if (!result) {
     return res.status(404).json({

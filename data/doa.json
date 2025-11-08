@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Doa Sapu Jagat",
+    "slug": "sapu-jagat",
     "contents": {
       "number": 1,
       "arab": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
@@ -19,6 +20,7 @@
   {
     "id": 2,
     "name": "Doa Sebelum Tidur",
+    "slug": "sebelum-tidur",
     "contents": {
       "number": 2,
       "arab": "بِاسْمِكَ اللّٰهُمَّ اَحْيَا وَاَمُوْتُ",
