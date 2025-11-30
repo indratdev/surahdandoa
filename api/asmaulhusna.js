@@ -1,4 +1,4 @@
-import asmaulhusna from '../../data/asmaulhusna.json';
+import asmaulhusna from '../data/asmaulhusna.json';
 
 export default function handler(req, res) {
   res.status(200).json({
