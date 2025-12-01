@@ -1,101 +1,893 @@
 [
-  { "no": 1, "name": "Ar Rahman", "arabic": "الرحمن", "meaning": "Maha Pengasih", "slug": "ar-rahman", "audio": "/audio/asmaul-husna/01-ar-rahman.mp3" },
-  { "no": 2, "name": "Ar Rahiim", "arabic": "الرحيم", "meaning": "Maha Penyayang", "slug": "ar-rahiim", "audio": "/audio/asmaul-husna/02-ar-rahiim.mp3" },
-  { "no": 3, "name": "Al Malik", "arabic": "الملك", "meaning": "Maha Merajai", "slug": "al-malik", "audio": "/audio/asmaul-husna/03-al-malik.mp3" },
-  { "no": 4, "name": "Al Quddus", "arabic": "القدوس", "meaning": "Maha Suci", "slug": "al-quddus", "audio": "/audio/asmaul-husna/04-al-quddus.mp3" },
-  { "no": 5, "name": "As Salaam", "arabic": "السلام", "meaning": "Maha Memberi Kesejahteraan", "slug": "as-salaam", "audio": "/audio/asmaul-husna/05-as-salaam.mp3" },
-  { "no": 6, "name": "Al Mu'min", "arabic": "المؤمن", "meaning": "Maha Memberi Keamanan", "slug": "al-mumin", "audio": "/audio/asmaul-husna/06-al-mumin.mp3" },
-  { "no": 7, "name": "Al Muhaimin", "arabic": "المهيمن", "meaning": "Maha Mengatur", "slug": "al-muhaimin", "audio": "/audio/asmaul-husna/07-al-muhaimin.mp3" },
-  { "no": 8, "name": "Al Aziz", "arabic": "العزيز", "meaning": "Maha Perkasa", "slug": "al-aziz", "audio": "/audio/asmaul-husna/08-al-aziz.mp3" },
-  { "no": 9, "name": "Al Jabbar", "arabic": "الجبار", "meaning": "Memiliki Mutlak Kegagahan", "slug": "al-jabbar", "audio": "/audio/asmaul-husna/09-al-jabbar.mp3" },
-  { "no": 10, "name": "Al Mutakabbir", "arabic": "المتكبر", "meaning": "Maha Megah", "slug": "al-mutakabbir", "audio": "/audio/asmaul-husna/10-al-mutakabbir.mp3" },
-  { "no": 11, "name": "Al Khaliq", "arabic": "الخالق", "meaning": "Maha Pencipta", "slug": "al-khaliq", "audio": "/audio/asmaul-husna/11-al-khaliq.mp3" },
-  { "no": 12, "name": "Al Baari", "arabic": "البارئ", "meaning": "Maha Melepaskan", "slug": "al-baari", "audio": "/audio/asmaul-husna/12-al-baari.mp3" },
-  { "no": 13, "name": "Al Mushawwir", "arabic": "المصور", "meaning": "Maha Membentuk Rupa", "slug": "al-mushawwir", "audio": "/audio/asmaul-husna/13-al-mushawwir.mp3" },
-  { "no": 14, "name": "Al Ghaffaar", "arabic": "الغفار", "meaning": "Maha Pengampun", "slug": "al-ghaffaar", "audio": "/audio/asmaul-husna/14-al-ghaffaar.mp3" },
-  { "no": 15, "name": "Al Qahhaar", "arabic": "القهار", "meaning": "Maha Memaksa", "slug": "al-qahhaar", "audio": "/audio/asmaul-husna/15-al-qahhaar.mp3" },
-  { "no": 16, "name": "Al Wahhaab", "arabic": "الوهاب", "meaning": "Maha Pemberi Karunia", "slug": "al-wahhaab", "audio": "/audio/asmaul-husna/16-al-wahhaab.mp3" },
-  { "no": 17, "name": "Ar Razzaaq", "arabic": "الرزاق", "meaning": "Maha Pemberi Rezeki", "slug": "ar-razzaaq", "audio": "/audio/asmaul-husna/17-ar-razzaaq.mp3" },
-  { "no": 18, "name": "Al Fattaah", "arabic": "الفتاح", "meaning": "Maha Pembuka Rahmat", "slug": "al-fattaah", "audio": "/audio/asmaul-husna/18-al-fattaah.mp3" },
-  { "no": 19, "name": "Al ‘Aliim", "arabic": "العليم", "meaning": "Maha Mengetahui", "slug": "al-aliim", "audio": "/audio/asmaul-husna/19-al-aliim.mp3" },
-  { "no": 20, "name": "Al Qaabidh", "arabic": "القابض", "meaning": "Maha Menyempitkan", "slug": "al-qaabidh", "audio": "/audio/asmaul-husna/20-al-qaabidh.mp3" },
-  { "no": 21, "name": "Al Baasith", "arabic": "الباسط", "meaning": "Maha Melapangkan", "slug": "al-baasith", "audio": "/audio/asmaul-husna/21-al-baasith.mp3" },
-  { "no": 22, "name": "Al Khaafidh", "arabic": "الخافض", "meaning": "Maha Merendahkan", "slug": "al-khaafidh", "audio": "/audio/asmaul-husna/22-al-khaafidh.mp3" },
-  { "no": 23, "name": "Ar Raafi", "arabic": "الرافع", "meaning": "Maha Meninggikan", "slug": "ar-raafi", "audio": "/audio/asmaul-husna/23-ar-raafi.mp3" },
-  { "no": 24, "name": "Al Mu'izz", "arabic": "المعز", "meaning": "Maha Memuliakan", "slug": "al-muizz", "audio": "/audio/asmaul-husna/24-al-muizz.mp3" },
-  { "no": 25, "name": "Al Mudzil", "arabic": "المذل", "meaning": "Maha Menghinakan", "slug": "al-mudzil", "audio": "/audio/asmaul-husna/25-al-mudzil.mp3" },
-  { "no": 26, "name": "Al Samii", "arabic": "السميع", "meaning": "Maha Mendengar", "slug": "al-samii", "audio": "/audio/asmaul-husna/26-al-samii.mp3" },
-  { "no": 27, "name": "Al Bashiir", "arabic": "البصير", "meaning": "Maha Melihat", "slug": "al-bashiir", "audio": "/audio/asmaul-husna/27-al-bashiir.mp3" },
-  { "no": 28, "name": "Al Hakam", "arabic": "الحكم", "meaning": "Maha Menetapkan", "slug": "al-hakam", "audio": "/audio/asmaul-husna/28-al-hakam.mp3" },
-  { "no": 29, "name": "Al ‘Adl", "arabic": "العدل", "meaning": "Maha Adil", "slug": "al-adl", "audio": "/audio/asmaul-husna/29-al-adl.mp3" },
-  { "no": 30, "name": "Al Lathiif", "arabic": "اللطيف", "meaning": "Maha Lembut", "slug": "al-lathiif", "audio": "/audio/asmaul-husna/30-al-lathiif.mp3" },
-  { "no": 31, "name": "Al Khabiir", "arabic": "الخبير", "meaning": "Maha Mengenal", "slug": "al-khabiir", "audio": "/audio/asmaul-husna/31-al-khabiir.mp3" },
-  { "no": 32, "name": "Al Haliim", "arabic": "الحليم", "meaning": "Maha Penyantun", "slug": "al-haliim", "audio": "/audio/asmaul-husna/32-al-haliim.mp3" },
-  { "no": 33, "name": "Al ‘Azhiim", "arabic": "العظيم", "meaning": "Maha Agung", "slug": "al-azhiim", "audio": "/audio/asmaul-husna/33-al-azhiim.mp3" },
-  { "no": 34, "name": "Al Ghafuur", "arabic": "الغفور", "meaning": "Maha Memberi Pengampunan", "slug": "al-ghafuur", "audio": "/audio/asmaul-husna/34-al-ghafuur.mp3" },
-  { "no": 35, "name": "As Syakuur", "arabic": "الشكور", "meaning": "Maha Pembalas Budi", "slug": "as-syakuur", "audio": "/audio/asmaul-husna/35-as-syakuur.mp3" },
-  { "no": 36, "name": "Al ‘Aliy", "arabic": "العلى", "meaning": "Maha Tinggi", "slug": "al-aliy", "audio": "/audio/asmaul-husna/36-al-aliy.mp3" },
-  { "no": 37, "name": "Al Kabiir", "arabic": "الكبير", "meaning": "Maha Besar", "slug": "al-kabiir", "audio": "/audio/asmaul-husna/37-al-kabiir.mp3" },
-  { "no": 38, "name": "Al Hafizh", "arabic": "الحفيظ", "meaning": "Maha Memelihara", "slug": "al-hafizh", "audio": "/audio/asmaul-husna/38-al-hafizh.mp3" },
-  { "no": 39, "name": "Al Muqiit", "arabic": "المقيت", "meaning": "Maha Pemberi Kecukupan", "slug": "al-muqiit", "audio": "/audio/asmaul-husna/39-al-muqiit.mp3" },
-  { "no": 40, "name": "Al Hasiib", "arabic": "الحسيب", "meaning": "Maha Membuat Perhitungan", "slug": "al-hasiib", "audio": "/audio/asmaul-husna/40-al-hasiib.mp3" },
-  { "no": 41, "name": "Al Jaliil", "arabic": "الجليل", "meaning": "Maha Luhur", "slug": "al-jaliil", "audio": "/audio/asmaul-husna/41-al-jaliil.mp3" },
-  { "no": 42, "name": "Al Kariim", "arabic": "الكريم", "meaning": "Maha Pemurah", "slug": "al-kariim", "audio": "/audio/asmaul-husna/42-al-kariim.mp3" },
-  { "no": 43, "name": "Ar Raqiib", "arabic": "الرقيب", "meaning": "Maha Mengawasi", "slug": "ar-raqiib", "audio": "/audio/asmaul-husna/43-ar-raqiib.mp3" },
-  { "no": 44, "name": "Al Mujiib", "arabic": "المجيب", "meaning": "Maha Mengabulkan", "slug": "al-mujiib", "audio": "/audio/asmaul-husna/44-al-mujiib.mp3" },
-  { "no": 45, "name": "Al Waasi", "arabic": "الواسع", "meaning": "Maha Luas", "slug": "al-waasi", "audio": "/audio/asmaul-husna/45-al-waasi.mp3" },
-  { "no": 46, "name": "Al Hakiim", "arabic": "الحكيم", "meaning": "Maha Bijaksana", "slug": "al-hakiim", "audio": "/audio/asmaul-husna/46-al-hakiim.mp3" },
-  { "no": 47, "name": "Al Waduud", "arabic": "الودود", "meaning": "Maha Mengasihi", "slug": "al-waduud", "audio": "/audio/asmaul-husna/47-al-waduud.mp3" },
-  { "no": 48, "name": "Al Majiid", "arabic": "المجيد", "meaning": "Maha Mulia", "slug": "al-majiid", "audio": "/audio/asmaul-husna/48-al-majiid.mp3" },
-  { "no": 49, "name": "Al Baa’its", "arabic": "الباعث", "meaning": "Maha Membangkitkan", "slug": "al-baaits", "audio": "/audio/asmaul-husna/49-al-baaits.mp3" },
-  { "no": 50, "name": "As Syahiid", "arabic": "الشهيد", "meaning": "Maha Menyaksikan", "slug": "as-syahiid", "audio": "/audio/asmaul-husna/50-as-syahiid.mp3" },
-  { "no": 51, "name": "Al Haqq", "arabic": "الحق", "meaning": "Maha Benar", "slug": "al-haqq", "audio": "/audio/asmaul-husna/51-al-haqq.mp3" },
-  { "no": 52, "name": "Al Wakiil", "arabic": "الوكيل", "meaning": "Maha Memelihara", "slug": "al-wakiil", "audio": "/audio/asmaul-husna/52-al-wakiil.mp3" },
-  { "no": 53, "name": "Al Qawiyyu", "arabic": "القوى", "meaning": "Maha Kuat", "slug": "al-qawiyyu", "audio": "/audio/asmaul-husna/53-al-qawiyyu.mp3" },
-  { "no": 54, "name": "Al Matiin", "arabic": "المتين", "meaning": "Maha Kokoh", "slug": "al-matiin", "audio": "/audio/asmaul-husna/54-al-matiin.mp3" },
-  { "no": 55, "name": "Al Waliyy", "arabic": "الولى", "meaning": "Maha Melindungi", "slug": "al-waliyy", "audio": "/audio/asmaul-husna/55-al-waliyy.mp3" },
-  { "no": 56, "name": "Al Hamiid", "arabic": "الحميد", "meaning": "Maha Terpuji", "slug": "al-hamiid", "audio": "/audio/asmaul-husna/56-al-hamiid.mp3" },
-  { "no": 57, "name": "Al Muhshii", "arabic": "المحصى", "meaning": "Maha Menghitung", "slug": "al-muhshii", "audio": "/audio/asmaul-husna/57-al-muhshii.mp3" },
-  { "no": 58, "name": "Al Mubdi", "arabic": "المبدئ", "meaning": "Maha Memulai", "slug": "al-mubdi", "audio": "/audio/asmaul-husna/58-al-mubdi.mp3" },
-  { "no": 59, "name": "Al Mu’iid", "arabic": "المعيد", "meaning": "Maha Mengembalikan Kehidupan", "slug": "al-muiid", "audio": "/audio/asmaul-husna/59-al-muiid.mp3" },
-  { "no": 60, "name": "Al Muhyii", "arabic": "المحيى", "meaning": "Maha Menghidupkan", "slug": "al-muhyii", "audio": "/audio/asmaul-husna/60-al-muhyii.mp3" },
-  { "no": 61, "name": "Al Mumiitu", "arabic": "المميت", "meaning": "Maha Mematikan", "slug": "al-mumiitu", "audio": "/audio/asmaul-husna/61-al-mumiitu.mp3" },
-  { "no": 62, "name": "Al Hayyu", "arabic": "الحي", "meaning": "Maha Hidup", "slug": "al-hayyu", "audio": "/audio/asmaul-husna/62-al-hayyu.mp3" },
-  { "no": 63, "name": "Al Qayyuum", "arabic": "القيوم", "meaning": "Maha Mandiri", "slug": "al-qayyuum", "audio": "/audio/asmaul-husna/63-al-qayyuum.mp3" },
-  { "no": 64, "name": "Al Waajid", "arabic": "الواجد", "meaning": "Maha Penemu", "slug": "al-waajid", "audio": "/audio/asmaul-husna/64-al-waajid.mp3" },
-  { "no": 65, "name": "Al Maajid", "arabic": "الماجد", "meaning": "Maha Mulia", "slug": "al-maajid", "audio": "/audio/asmaul-husna/65-al-maajid.mp3" },
-  { "no": 66, "name": "Al Wahid", "arabic": "الواحد", "meaning": "Maha Tunggal", "slug": "al-wahid", "audio": "/audio/asmaul-husna/66-al-wahid.mp3" },
-  { "no": 67, "name": "Al Ahad", "arabic": "الاحد", "meaning": "Maha Esa", "slug": "al-ahad", "audio": "/audio/asmaul-husna/67-al-ahad.mp3" },
-  { "no": 68, "name": "As Shamad", "arabic": "الصمد", "meaning": "Maha Dibutuhkan", "slug": "as-shamad", "audio": "/audio/asmaul-husna/68-as-shamad.mp3" },
-  { "no": 69, "name": "Al Qaadir", "arabic": "القادر", "meaning": "Maha Menentukan", "slug": "al-qaadir", "audio": "/audio/asmaul-husna/69-al-qaadir.mp3" },
-  { "no": 70, "name": "Al Muqtadir", "arabic": "المقتدر", "meaning": "Maha Berkuasa", "slug": "al-muqtadir", "audio": "/audio/asmaul-husna/70-al-muqtadir.mp3" },
-  { "no": 71, "name": "Al Muqaddim", "arabic": "المقدم", "meaning": "Maha Mendahulukan", "slug": "al-muqaddim", "audio": "/audio/asmaul-husna/71-al-muqaddim.mp3" },
-  { "no": 72, "name": "Al Mu’akkhir", "arabic": "المؤخر", "meaning": "Maha Mengakhirkan", "slug": "al-muakkhir", "audio": "/audio/asmaul-husna/72-al-muakkhir.mp3" },
-  { "no": 73, "name": "Al Awwal", "arabic": "الأول", "meaning": "Maha Awal", "slug": "al-awwal", "audio": "/audio/asmaul-husna/73-al-awwal.mp3" },
-  { "no": 74, "name": "Al Aakhir", "arabic": "الأخر", "meaning": "Maha Akhir", "slug": "al-aakhir", "audio": "/audio/asmaul-husna/74-al-aakhir.mp3" },
-  { "no": 75, "name": "Az Zhaahir", "arabic": "الظاهر", "meaning": "Maha Nyata", "slug": "az-zhaahir", "audio": "/audio/asmaul-husna/75-az-zhaahir.mp3" },
-  { "no": 76, "name": "Al Baathin", "arabic": "الباطن", "meaning": "Maha Ghaib", "slug": "al-baathin", "audio": "/audio/asmaul-husna/76-al-baathin.mp3" },
-  { "no": 77, "name": "Al Waali", "arabic": "الوالي", "meaning": "Maha Memerintah", "slug": "al-waali", "audio": "/audio/asmaul-husna/77-al-waali.mp3" },
-  { "no": 78, "name": "Al Muta’aalii", "arabic": "المتعالي", "meaning": "Maha Tinggi", "slug": "al-muta-aalii", "audio": "/audio/asmaul-husna/78-al-muta-aalii.mp3" },
-  { "no": 79, "name": "Al Barru", "arabic": "البر", "meaning": "Maha Penderma", "slug": "al-barru", "audio": "/audio/asmaul-husna/79-al-barru.mp3" },
-  { "no": 80, "name": "At Tawwaab", "arabic": "التواب", "meaning": "Maha Penerima Tobat", "slug": "at-tawwaab", "audio": "/audio/asmaul-husna/80-at-tawwaab.mp3" },
-  { "no": 81, "name": "Al Muntaqim", "arabic": "المنتقم", "meaning": "Maha Pemberi Balasan", "slug": "al-muntaqim", "audio": "/audio/asmaul-husna/81-al-muntaqim.mp3" },
-  { "no": 82, "name": "Al Afuww", "arabic": "العفو", "meaning": "Maha Pemaaf", "slug": "al-afuww", "audio": "/audio/asmaul-husna/82-al-afuww.mp3" },
-  { "no": 83, "name": "Ar Ra’uuf", "arabic": "الرؤوف", "meaning": "Maha Pengasuh", "slug": "ar-rauuf", "audio": "/audio/asmaul-husna/83-ar-rauuf.mp3" },
-  { "no": 84, "name": "Malikul Mulk", "arabic": "مالك الملك", "meaning": "Maha Penguasa Kerajaan", "slug": "malikul-mulk", "audio": "/audio/asmaul-husna/84-malikul-mulk.mp3" },
-  { "no": 85, "name": "Dzul Jalaali Wal Ikraam", "arabic": "ذو الجلال و الإكرام", "meaning": "Maha Pemilik Kebesaran dan Kemuliaan", "slug": "dzul-jalaali-wal-ikraam", "audio": "/audio/asmaul-husna/85-dzul-jalaali-wal-ikraam.mp3" },
-  { "no": 86, "name": "Al Muqsith", "arabic": "المقسط", "meaning": "Maha Pemberi Keadilan", "slug": "al-muqsith", "audio": "/audio/asmaul-husna/86-al-muqsith.mp3" },
-  { "no": 87, "name": "Al Jamii’", "arabic": "الجامع", "meaning": "Maha Mengumpulkan", "slug": "al-jamii", "audio": "/audio/asmaul-husna/87-al-jamii.mp3" },
-  { "no": 88, "name": "Al Ghaniyy", "arabic": "الغنى", "meaning": "Maha Kaya", "slug": "al-ghaniyy", "audio": "/audio/asmaul-husna/88-al-ghaniyy.mp3" },
-  { "no": 89, "name": "Al Mughnii", "arabic": "المغنى", "meaning": "Maha Pemberi Kekayaan", "slug": "al-mughnii", "audio": "/audio/asmaul-husna/89-al-mughnii.mp3" },
-  { "no": 90, "name": "Al Maani", "arabic": "المانع", "meaning": "Maha Mencegah", "slug": "al-maani", "audio": "/audio/asmaul-husna/90-al-maani.mp3" },
-  { "no": 91, "name": "Ad Dhaar", "arabic": "الضار", "meaning": "Maha Penimpa Kemudharatan", "slug": "ad-dhaar", "audio": "/audio/asmaul-husna/91-ad-dhaar.mp3" },
-  { "no": 92, "name": "An Nafii", "arabic": "النافع", "meaning": "Maha Memberi Manfaat", "slug": "an-nafii", "audio": "/audio/asmaul-husna/92-an-nafii.mp3" },
-  { "no": 93, "name": "An Nuur", "arabic": "النور", "meaning": "Maha Bercahaya", "slug": "an-nuur", "audio": "/audio/asmaul-husna/93-an-nuur.mp3" },
-  { "no": 94, "name": "Al Haadii", "arabic": "الهادئ", "meaning": "Maha Pemberi Petunjuk", "slug": "al-haadii", "audio": "/audio/asmaul-husna/94-al-haadii.mp3" },
-  { "no": 95, "name": "Al Badii’", "arabic": "البديع", "meaning": "Maha Pencipta", "slug": "al-badii", "audio": "/audio/asmaul-husna/95-al-badii.mp3" },
-  { "no": 96, "name": "Al Baaqii", "arabic": "الباقي", "meaning": "Maha Kekal", "slug": "al-baaqii", "audio": "/audio/asmaul-husna/96-al-baaqii.mp3" },
-  { "no": 97, "name": "Al Waarits", "arabic": "الوارث", "meaning": "Maha Pewaris", "slug": "al-waarits", "audio": "/audio/asmaul-husna/97-al-waarits.mp3" },
-  { "no": 98, "name": "Ar Rasyiid", "arabic": "الرشيد", "meaning": "Maha Pandai", "slug": "ar-rasyiid", "audio": "/audio/asmaul-husna/98-ar-rasyiid.mp3" },
-  { "no": 99, "name": "As Shabuur", "arabic": "الصبور", "meaning": "Maha Sabar", "slug": "as-shabuur", "audio": "/audio/asmaul-husna/99-as-shabuur.mp3" }
+  {
+    "no": 1,
+    "name": "Ar Rahman",
+    "arabic": "ٱلرَّحْمَٰن",
+    "meaning": "Maha Pengasih",
+    "slug": "ar-rahman",
+    "audio": "/audio/asmaul-husna/001-ar-rahman.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 2,
+    "name": "Ar Rahiim",
+    "arabic": "ٱلرَّحِيم",
+    "meaning": "Maha Penyayang",
+    "slug": "ar-rahiim",
+    "audio": "/audio/asmaul-husna/002-ar-rahiim.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 3,
+    "name": "Al Malik",
+    "arabic": "ٱلْمَلِك",
+    "meaning": "Maha Merajai",
+    "slug": "al-malik",
+    "audio": "/audio/asmaul-husna/003-al-malik.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 4,
+    "name": "Al Quddus",
+    "arabic": "ٱلْقُدُّوس",
+    "meaning": "Maha Suci",
+    "slug": "al-quddus",
+    "audio": "/audio/asmaul-husna/004-al-quddus.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 5,
+    "name": "As Salaam",
+    "arabic": "ٱلسَّلَام",
+    "meaning": "Maha Sejahtera",
+    "slug": "as-salaam",
+    "audio": "/audio/asmaul-husna/005-as-salaam.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 6,
+    "name": "Al Mu'min",
+    "arabic": "ٱلْمُؤْمِن",
+    "meaning": "Maha Pemberi Keamanan",
+    "slug": "al-mumin",
+    "audio": "/audio/asmaul-husna/006-al-mumin.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 7,
+    "name": "Al Muhaimin",
+    "arabic": "ٱلْمُهَيْمِن",
+    "meaning": "Maha Pemelihara",
+    "slug": "al-muhaimin",
+    "audio": "/audio/asmaul-husna/007-al-muhaimin.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 8,
+    "name": "Al Aziz",
+    "arabic": "ٱلْعَزِيز",
+    "meaning": "Maha Perkasa",
+    "slug": "al-aziz",
+    "audio": "/audio/asmaul-husna/008-al-aziz.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 9,
+    "name": "Al Jabbar",
+    "arabic": "ٱلْجَبَّار",
+    "meaning": "Maha Memaksa",
+    "slug": "al-jabbar",
+    "audio": "/audio/asmaul-husna/009-al-jabbar.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 10,
+    "name": "Al Mutakabbir",
+    "arabic": "ٱلْمُتَكَبِّر",
+    "meaning": "Maha Megah",
+    "slug": "al-mutakabbir",
+    "audio": "/audio/asmaul-husna/010-al-mutakabbir.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 11,
+    "name": "Al Khaliq",
+    "arabic": "ٱلْخَالِق",
+    "meaning": "Maha Pencipta",
+    "slug": "al-khaliq",
+    "audio": "/audio/asmaul-husna/011-al-khaliq.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 12,
+    "name": "Al Baari'",
+    "arabic": "ٱلْبَارِئ",
+    "meaning": "Maha Mengadakan",
+    "slug": "al-baari",
+    "audio": "/audio/asmaul-husna/012-al-baari.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 13,
+    "name": "Al Mushawwir",
+    "arabic": "ٱلْمُصَوِّر",
+    "meaning": "Maha Membentuk",
+    "slug": "al-mushawwir",
+    "audio": "/audio/asmaul-husna/013-al-mushawwir.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 14,
+    "name": "Al Ghaffar",
+    "arabic": "ٱلْغَفَّار",
+    "meaning": "Maha Pengampun",
+    "slug": "al-ghaffar",
+    "audio": "/audio/asmaul-husna/014-al-ghaffar.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 15,
+    "name": "Al Qahhar",
+    "arabic": "ٱلْقَهَّار",
+    "meaning": "Maha Memaksa",
+    "slug": "al-qahhar",
+    "audio": "/audio/asmaul-husna/015-al-qahhar.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 16,
+    "name": "Al Wahhab",
+    "arabic": "ٱلْوَهَّاب",
+    "meaning": "Maha Pemberi Karunia",
+    "slug": "al-wahhab",
+    "audio": "/audio/asmaul-husna/016-al-wahhab.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 17,
+    "name": "Ar Razzaq",
+    "arabic": "ٱلرَّزَّاق",
+    "meaning": "Maha Pemberi Rezeki",
+    "slug": "ar-razzaq",
+    "audio": "/audio/asmaul-husna/017-ar-razzaq.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 18,
+    "name": "Al Fattah",
+    "arabic": "ٱلْفَتَّاح",
+    "meaning": "Maha Pembuka",
+    "slug": "al-fattah",
+    "audio": "/audio/asmaul-husna/018-al-fattah.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 19,
+    "name": "Al 'Alim",
+    "arabic": "ٱلْعَلِيم",
+    "meaning": "Maha Mengetahui",
+    "slug": "al-alim",
+    "audio": "/audio/asmaul-husna/019-al-alim.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 20,
+    "name": "Al Qaabidh",
+    "arabic": "ٱلْقَابِض",
+    "meaning": "Maha Menyempitkan",
+    "slug": "al-qaabidh",
+    "audio": "/audio/asmaul-husna/020-al-qaabidh.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 21,
+    "name": "Al Baasith",
+    "arabic": "ٱلْبَاسِط",
+    "meaning": "Maha Melapangkan",
+    "slug": "al-baasith",
+    "audio": "/audio/asmaul-husna/021-al-baasith.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 22,
+    "name": "Al Khaafidh",
+    "arabic": "ٱلْخَافِض",
+    "meaning": "Maha Merendahkan",
+    "slug": "al-khaafidh",
+    "audio": "/audio/asmaul-husna/022-al-khaafidh.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 23,
+    "name": "Ar Raafi'",
+    "arabic": "ٱلرَّافِع",
+    "meaning": "Maha Meninggikan",
+    "slug": "ar-raafi",
+    "audio": "/audio/asmaul-husna/023-ar-raafi.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 24,
+    "name": "Al Mu'izz",
+    "arabic": "ٱلْمُعِزّ",
+    "meaning": "Maha Memuliakan",
+    "slug": "al-muizz",
+    "audio": "/audio/asmaul-husna/024-al-muizz.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 25,
+    "name": "Al Mudhill",
+    "arabic": "ٱلْمُذِلّ",
+    "meaning": "Maha Menghinakan",
+    "slug": "al-mudhill",
+    "audio": "/audio/asmaul-husna/025-al-mudhill.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 26,
+    "name": "As Sami'",
+    "arabic": "ٱلسَّمِيع",
+    "meaning": "Maha Mendengar",
+    "slug": "as-sami",
+    "audio": "/audio/asmaul-husna/026-as-sami.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 27,
+    "name": "Al Bashir",
+    "arabic": "ٱلْبَصِير",
+    "meaning": "Maha Melihat",
+    "slug": "al-bashir",
+    "audio": "/audio/asmaul-husna/027-al-bashir.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 28,
+    "name": "Al Hakam",
+    "arabic": "ٱلْحَكَم",
+    "meaning": "Maha Menetapkan",
+    "slug": "al-hakam",
+    "audio": "/audio/asmaul-husna/028-al-hakam.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 29,
+    "name": "Al 'Adl",
+    "arabic": "ٱلْعَدْل",
+    "meaning": "Maha Adil",
+    "slug": "al-adl",
+    "audio": "/audio/asmaul-husna/029-al-adl.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 30,
+    "name": "Al Latif",
+    "arabic": "ٱللَّطِيف",
+    "meaning": "Maha Lembut",
+    "slug": "al-latif",
+    "audio": "/audio/asmaul-husna/030-al-latif.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 31,
+    "name": "Al Khabiir",
+    "arabic": "ٱلْخَبِير",
+    "meaning": "Maha Teliti",
+    "slug": "al-khabiir",
+    "audio": "/audio/asmaul-husna/031-al-khabiir.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 32,
+    "name": "Al Haliim",
+    "arabic": "ٱلْحَلِيم",
+    "meaning": "Maha Penyantun",
+    "slug": "al-haliim",
+    "audio": "/audio/asmaul-husna/032-al-haliim.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 33,
+    "name": "Al 'Azhiim",
+    "arabic": "ٱلْعَظِيم",
+    "meaning": "Maha Agung",
+    "slug": "al-azhiim",
+    "audio": "/audio/asmaul-husna/033-al-azhiim.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 34,
+    "name": "Al Latif",
+    "arabic": "اللَّطِيفُ",
+    "meaning": "Maha Lembut",
+    "slug": "al-latif",
+    "audio": "/audio/asmaul-husna/34-al-latif.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 35,
+    "name": "Al Khabir",
+    "arabic": "الْخَبِيرُ",
+    "meaning": "Maha Mengetahui Rahasia",
+    "slug": "al-khabir",
+    "audio": "/audio/asmaul-husna/35-al-khabir.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 36,
+    "name": "Al Halim",
+    "arabic": "الْحَلِيمُ",
+    "meaning": "Maha Penyantun",
+    "slug": "al-halim",
+    "audio": "/audio/asmaul-husna/36-al-halim.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 37,
+    "name": "Al Azim",
+    "arabic": "الْعَظِيمُ",
+    "meaning": "Maha Agung",
+    "slug": "al-azim",
+    "audio": "/audio/asmaul-husna/37-al-azim.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 38,
+    "name": "Al Ghafur",
+    "arabic": "الْغَفُورُ",
+    "meaning": "Maha Pengampun",
+    "slug": "al-ghafur",
+    "audio": "/audio/asmaul-husna/38-al-ghafur.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 39,
+    "name": "Ash Shakur",
+    "arabic": "الشَّكُورُ",
+    "meaning": "Maha Mensyukuri / Membalas Kebaikan",
+    "slug": "ash-shakur",
+    "audio": "/audio/asmaul-husna/39-ash-shakur.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 40,
+    "name": "Al Aliy",
+    "arabic": "الْعَلِيُّ",
+    "meaning": "Maha Tinggi",
+    "slug": "al-aliyy",
+    "audio": "/audio/asmaul-husna/40-al-aliyy.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 41,
+    "name": "Al Kabir",
+    "arabic": "الْكَبِيرُ",
+    "meaning": "Maha Besar",
+    "slug": "al-kabir",
+    "audio": "/audio/asmaul-husna/41-al-kabir.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 42,
+    "name": "Al Hafizh",
+    "arabic": "الْحَفِيظُ",
+    "meaning": "Maha Memelihara",
+    "slug": "al-hafizh",
+    "audio": "/audio/asmaul-husna/42-al-hafizh.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 43,
+    "name": "Al Muqit",
+    "arabic": "المُقِيتُ",
+    "meaning": "Maha Pemberi Kecukupan",
+    "slug": "al-muqit",
+    "audio": "/audio/asmaul-husna/43-al-muqit.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 44,
+    "name": "Al Hasib",
+    "arabic": "الْحَسِيبُ",
+    "meaning": "Maha Membuat Perhitungan",
+    "slug": "al-hasib",
+    "audio": "/audio/asmaul-husna/44-al-hasib.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 45,
+    "name": "Al Jalil",
+    "arabic": "الْجَلِيلُ",
+    "meaning": "Maha Mulia",
+    "slug": "al-jalil",
+    "audio": "/audio/asmaul-husna/45-al-jalil.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 46,
+    "name": "Al Karim",
+    "arabic": "الْكَرِيمُ",
+    "meaning": "Maha Pemurah",
+    "slug": "al-karim",
+    "audio": "/audio/asmaul-husna/46-al-karim.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 47,
+    "name": "Ar Raqib",
+    "arabic": "الرَّقِيبُ",
+    "meaning": "Maha Mengawasi",
+    "slug": "ar-raqib",
+    "audio": "/audio/asmaul-husna/47-ar-raqib.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 48,
+    "name": "Al Mujib",
+    "arabic": "الْمُجِيبُ",
+    "meaning": "Maha Mengabulkan",
+    "slug": "al-mujib",
+    "audio": "/audio/asmaul-husna/48-al-mujib.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 49,
+    "name": "Al Wasi'",
+    "arabic": "الْوَاسِعُ",
+    "meaning": "Maha Luas",
+    "slug": "al-wasi",
+    "audio": "/audio/asmaul-husna/49-al-wasi.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 50,
+    "name": "Al Hakim",
+    "arabic": "الْحَكِيمُ",
+    "meaning": "Maha Bijaksana",
+    "slug": "al-hakim",
+    "audio": "/audio/asmaul-husna/50-al-hakim.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 51,
+    "name": "Al Wadud",
+    "arabic": "الْوَدُودُ",
+    "meaning": "Maha Pengasih",
+    "slug": "al-wadud",
+    "audio": "/audio/asmaul-husna/51-al-wadud.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 52,
+    "name": "Al Majid",
+    "arabic": "الْمَجِيدُ",
+    "meaning": "Maha Mulia",
+    "slug": "al-majid",
+    "audio": "/audio/asmaul-husna/52-al-majid.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 53,
+    "name": "Al Ba'its",
+    "arabic": "الْبَاعِثُ",
+    "meaning": "Maha Membangkitkan",
+    "slug": "al-baits",
+    "audio": "/audio/asmaul-husna/53-al-baits.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 54,
+    "name": "Ash Shahid",
+    "arabic": "الشَّهِيدُ",
+    "meaning": "Maha Menyaksikan",
+    "slug": "ash-shahid",
+    "audio": "/audio/asmaul-husna/54-ash-shahid.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 55,
+    "name": "Al Haqq",
+    "arabic": "الْحَقُّ",
+    "meaning": "Maha Benar",
+    "slug": "al-haqq",
+    "audio": "/audio/asmaul-husna/55-al-haqq.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 56,
+    "name": "Al Wakil",
+    "arabic": "الْوَكِيلُ",
+    "meaning": "Maha Mewakili",
+    "slug": "al-wakil",
+    "audio": "/audio/asmaul-husna/56-al-wakil.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 57,
+    "name": "Al Qawiyy",
+    "arabic": "الْقَوِيُّ",
+    "meaning": "Maha Kuat",
+    "slug": "al-qawiyy",
+    "audio": "/audio/asmaul-husna/57-al-qawiyy.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 58,
+    "name": "Al Matin",
+    "arabic": "الْمَتِينُ",
+    "meaning": "Maha Kokoh",
+    "slug": "al-matin",
+    "audio": "/audio/asmaul-husna/58-al-matin.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 59,
+    "name": "Al Waliyy",
+    "arabic": "الْوَلِيُّ",
+    "meaning": "Maha Melindungi",
+    "slug": "al-waliyy",
+    "audio": "/audio/asmaul-husna/59-al-waliyy.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 60,
+    "name": "Al Hamid",
+    "arabic": "الْحَمِيدُ",
+    "meaning": "Maha Terpuji",
+    "slug": "al-hamid",
+    "audio": "/audio/asmaul-husna/60-al-hamid.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 61,
+    "name": "Al Muhshi",
+    "arabic": "الْمُحْصِي",
+    "meaning": "Maha Menghitung Segala",
+    "slug": "al-muhshi",
+    "audio": "/audio/asmaul-husna/61-al-muhshi.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 62,
+    "name": "Al Mubdi'",
+    "arabic": "الْمُبْدِئُ",
+    "meaning": "Maha Memulai Penciptaan",
+    "slug": "al-mubdi",
+    "audio": "/audio/asmaul-husna/62-al-mubdi.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 63,
+    "name": "Al Mu'id",
+    "arabic": "الْمُعِيدُ",
+    "meaning": "Maha Mengembalikan Kehidupan",
+    "slug": "al-muid",
+    "audio": "/audio/asmaul-husna/63-al-muid.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 64,
+    "name": "Al Muhyi",
+    "arabic": "الْمُحْيِي",
+    "meaning": "Maha Menghidupkan",
+    "slug": "al-muhyi",
+    "audio": "/audio/asmaul-husna/64-al-muhyi.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 65,
+    "name": "Al Mumit",
+    "arabic": "اَلْمُمِيتُ",
+    "meaning": "Maha Mematikan",
+    "slug": "al-mumit",
+    "audio": "/audio/asmaul-husna/65-al-mumit.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 66,
+    "name": "Al Hayy",
+    "arabic": "الْحَيُّ",
+    "meaning": "Maha Hidup",
+    "slug": "al-hayy",
+    "audio": "/audio/asmaul-husna/66-al-hayy.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 67,
+    "name": "Al Muqsith",
+    "arabic": "المقسط",
+    "meaning": "Maha Pemberi Keadilan",
+    "slug": "al-muqsith",
+    "audio": "/audio/asmaul-husna/67-al-muqsith.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 68,
+    "name": "Al Jaami'",
+    "arabic": "الجامع",
+    "meaning": "Maha Mengumpulkan",
+    "slug": "al-jaami",
+    "audio": "/audio/asmaul-husna/68-al-jaami.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 69,
+    "name": "Al Ghoni",
+    "arabic": "الغني",
+    "meaning": "Maha Kaya",
+    "slug": "al-ghoni",
+    "audio": "/audio/asmaul-husna/69-al-ghoni.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 70,
+    "name": "Al Mughni",
+    "arabic": "المغني",
+    "meaning": "Maha Memberi Kekayaan",
+    "slug": "al-mughni",
+    "audio": "/audio/asmaul-husna/70-al-mughni.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 71,
+    "name": "Al Ma'ani'",
+    "arabic": "المانع",
+    "meaning": "Maha Mencegah",
+    "slug": "al-maani",
+    "audio": "/audio/asmaul-husna/71-al-maani.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 72,
+    "name": "Adh Dhaar",
+    "arabic": "الضار",
+    "meaning": "Maha Memberi Derita",
+    "slug": "adh-dhaar",
+    "audio": "/audio/asmaul-husna/72-adh-dhaar.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 73,
+    "name": "An Nafi'",
+    "arabic": "النافع",
+    "meaning": "Maha Memberi Manfaat",
+    "slug": "an-nafi",
+    "audio": "/audio/asmaul-husna/73-an-nafi.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 74,
+    "name": "An Nur",
+    "arabic": "النور",
+    "meaning": "Maha Bercahaya",
+    "slug": "an-nur",
+    "audio": "/audio/asmaul-husna/74-an-nur.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 75,
+    "name": "Al Haadi",
+    "arabic": "الهادي",
+    "meaning": "Maha Pemberi Petunjuk",
+    "slug": "al-haadi",
+    "audio": "/audio/asmaul-husna/75-al-haadi.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 76,
+    "name": "Al Badii'",
+    "arabic": "البديع",
+    "meaning": "Maha Pencipta Tanpa Contoh",
+    "slug": "al-badii",
+    "audio": "/audio/asmaul-husna/76-al-badii.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 77,
+    "name": "Al Baaqi",
+    "arabic": "الباقي",
+    "meaning": "Maha Kekal",
+    "slug": "al-baaqi",
+    "audio": "/audio/asmaul-husna/77-al-baaqi.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 78,
+    "name": "Al Waarits",
+    "arabic": "الوارث",
+    "meaning": "Maha Pewaris",
+    "slug": "al-waarits",
+    "audio": "/audio/asmaul-husna/78-al-waarits.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 79,
+    "name": "Ar Rasyiid",
+    "arabic": "الرشيد",
+    "meaning": "Maha Pandai",
+    "slug": "ar-rasyiid",
+    "audio": "/audio/asmaul-husna/79-ar-rasyiid.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 80,
+    "name": "As Shabuur",
+    "arabic": "الصبور",
+    "meaning": "Maha Sabar",
+    "slug": "as-shabuur",
+    "audio": "/audio/asmaul-husna/80-as-shabuur.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 81,
+    "name": "Al Kafi",
+    "arabic": "الكافي",
+    "meaning": "Maha Mencukupi",
+    "slug": "al-kafi",
+    "audio": "/audio/asmaul-husna/81-al-kafi.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 82,
+    "name": "Al Muqit",
+    "arabic": "المقيت",
+    "meaning": "Maha Pemberi Kecukupan",
+    "slug": "al-muqit",
+    "audio": "/audio/asmaul-husna/82-al-muqit.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 83,
+    "name": "Al Muhyi",
+    "arabic": "المحيي",
+    "meaning": "Maha Menghidupkan",
+    "slug": "al-muhyi",
+    "audio": "/audio/asmaul-husna/83-al-muhyi.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 84,
+    "name": "Al Mumit",
+    "arabic": "المميت",
+    "meaning": "Maha Mematikan",
+    "slug": "al-mumit",
+    "audio": "/audio/asmaul-husna/84-al-mumit.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 85,
+    "name": "As Sami'",
+    "arabic": "السميع",
+    "meaning": "Maha Mendengar",
+    "slug": "as-sami",
+    "audio": "/audio/asmaul-husna/85-as-sami.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 86,
+    "name": "Al Bashir",
+    "arabic": "البصير",
+    "meaning": "Maha Melihat",
+    "slug": "al-bashir",
+    "audio": "/audio/asmaul-husna/86-al-bashir.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 87,
+    "name": "Al 'Aliy",
+    "arabic": "العلي",
+    "meaning": "Maha Tinggi",
+    "slug": "al-aliy",
+    "audio": "/audio/asmaul-husna/87-al-aliy.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 88,
+    "name": "Al Kabir",
+    "arabic": "الكبير",
+    "meaning": "Maha Besar",
+    "slug": "al-kabir",
+    "audio": "/audio/asmaul-husna/88-al-kabir.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 89,
+    "name": "Al Hafizh",
+    "arabic": "الحفيظ",
+    "meaning": "Maha Pemelihara",
+    "slug": "al-hafizh",
+    "audio": "/audio/asmaul-husna/89-al-hafizh.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 90,
+    "name": "Al Muqaddim",
+    "arabic": "المقدم",
+    "meaning": "Maha Mendahulukan",
+    "slug": "al-muqaddim",
+    "audio": "/audio/asmaul-husna/90-al-muqaddim.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 91,
+    "name": "Al Mu'akhkhir",
+    "arabic": "المؤخر",
+    "meaning": "Maha Mengakhirkan",
+    "slug": "al-muakhkhir",
+    "audio": "/audio/asmaul-husna/91-al-muakhkhir.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 92,
+    "name": "Adh Dhahir",
+    "arabic": "الظاهر",
+    "meaning": "Maha Nyata",
+    "slug": "adh-dhahir",
+    "audio": "/audio/asmaul-husna/92-adh-dhahir.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 93,
+    "name": "Al Bathin",
+    "arabic": "الباطن",
+    "meaning": "Maha Tersembunyi",
+    "slug": "al-bathin",
+    "audio": "/audio/asmaul-husna/93-al-bathin.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 94,
+    "name": "Al Waali",
+    "arabic": "الوالي",
+    "meaning": "Maha Memerintah",
+    "slug": "al-waali",
+    "audio": "/audio/asmaul-husna/94-al-waali.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 95,
+    "name": "Al Muta'ali",
+    "arabic": "المتعال",
+    "meaning": "Maha Tinggi Derajat-Nya",
+    "slug": "al-mutaali",
+    "audio": "/audio/asmaul-husna/95-al-mutaali.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 96,
+    "name": "Al Barr",
+    "arabic": "البر",
+    "meaning": "Maha Dermawan",
+    "slug": "al-barr",
+    "audio": "/audio/asmaul-husna/96-al-barr.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 97,
+    "name": "At Tawwaab",
+    "arabic": "التواب",
+    "meaning": "Maha Penerima Taubat",
+    "slug": "at-tawwaab",
+    "audio": "/audio/asmaul-husna/97-at-tawwaab.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 98,
+    "name": "Al Muntaqim",
+    "arabic": "المنتقم",
+    "meaning": "Maha Penuntut Balas",
+    "slug": "al-muntaqim",
+    "audio": "/audio/asmaul-husna/98-al-muntaqim.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  },
+  {
+    "no": 99,
+    "name": "Al 'Afuww",
+    "arabic": "العفو",
+    "meaning": "Maha Pemaaf",
+    "slug": "al-afuww",
+    "audio": "/audio/asmaul-husna/99-al-afuww.mp3",
+    "audio_full": "/audio/asmaul_husna/asmaul_husna_full.mp3"
+  }
 ]
